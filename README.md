@@ -28,7 +28,9 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization:**
 
-![1_customer_segmentation](Images/1_customer_segementation.png)
+
+<img src="Images/1_customer_segementation.png" alt="Customer Segmentation" width="50%">
+
 
 
 📊 **Key Findings:**
@@ -54,12 +56,13 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 Customer Revenue by Cohort (Adjusted for time in market) - First Purchase Date 
 
-![Customer Revenue Normalized](Images/2_customer_revenue_normalized.png)
+<img src="Images/2_customer_revenue_normalized.png" alt="Customer Segmentation" width="50%">
 
 
 Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 
-![3_monthly_customer_revenue_3mo](Images/3_monthly_customer_revenue_3mo.png)
+<img src="Images/3_monthly_customer_revenue_3mo.png" alt="Customer Segmentation" width="50%">
+
 📊 **Key Findings:**  
 - Customer revenue is declining, older cohorts (2016-2018) spent ~$2,800+, while 2024 cohort spending dropped to ~$1,970.  
 - Revenue and customers peaked in 2022-2023, but both are now trending downward in 2024.  
@@ -79,7 +82,7 @@ Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 
 **📈 Visualization:**
 
-![4_customer_churn_cohort_year](Images/4_customer_churn_cohort_year.png)
+<img src="Images/4_customer_churn_cohort_year.png" alt="Customer Segmentation" width="50%">
 
 📊 **Key Findings:**  
 - Cohort churn stabilizes at ~90% after 2-3 years, indicating a predictable long-term retention pattern.  
